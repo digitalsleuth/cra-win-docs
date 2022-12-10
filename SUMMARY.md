@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CRA-WIN - A Customized Robus Analysis Windows Forensics Environment Builder](README.md)
+* [CRA-WIN - A Customized Robust Analysis Windows Forensics Environment Builder](README.md)
 
 ## INSTALLATION
 
