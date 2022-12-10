@@ -1,7 +1,7 @@
 ---
-description: >-  
-  Applications used to analyze potentially malicious  
-  documents  
+description: >-
+  Applications used to analyze potentially malicious
+  documents
 ---
 
 # Document Analysis  

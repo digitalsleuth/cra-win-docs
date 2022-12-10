@@ -1,7 +1,7 @@
 ---
-description: Web browsers  
----  
-  
+description: Web browsers
+---
+
 # Browsers  
   
 ### Firefox   

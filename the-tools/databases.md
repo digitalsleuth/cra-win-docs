@@ -1,7 +1,7 @@
----  
-description: Database browsers  
----  
-  
+---
+description: Database browsers
+---
+
 # Databases  
   
 ### DB Browser for SQLite  
